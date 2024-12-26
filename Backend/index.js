@@ -26,9 +26,9 @@ try {
 }
 
 //routes
-app.get("/",(res,req)=>{
-    res.send("Server is running");
-})
+app.get("/",(req,res)=>{
+    res.send(" Backend is Running")
+  })
 app.use("/api/user", userRoute);
 app.use("/api/message", messageRoute);
 
