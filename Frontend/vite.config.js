@@ -8,9 +8,9 @@ export default defineConfig({
     port:3001,
     proxy: {
       "/api": {
-        target: "http://localhost:4002/",
+        target: "https://chatapp-api-three.vercel.app",
         changeOrigin: true,
-        strictPort:true,
+        
       },
     },
   },
