@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # ChatApp (MERN + Socket.io)
 
 ## Overview
 =======
-ChatApp (MERN + Socket.io)
->>>>>>> 41f322db34fcb570ada1bd58c7f2aacb310bf345
 
 ChatApp is a real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Socket.io for real-time bidirectional communication. This project demonstrates the implementation of a fully functional chat application with features like user authentication, live messaging, and persistent message storage.
 
