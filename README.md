@@ -130,7 +130,7 @@ chatapp/
 ### Chat Endpoints:
 
 - `GET /api/message/get/userId`: Fetch chats for a user.
-- `POST /api/`message/send/userId: Send a new message.
+- `POST /api/message/send/userId`: Send a new message.
 
 ---
 
